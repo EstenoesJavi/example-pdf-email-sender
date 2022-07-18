@@ -1,4 +1,4 @@
-package com.creatupage.api.security.example;
+package com.creatupage.api.example.pdf;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

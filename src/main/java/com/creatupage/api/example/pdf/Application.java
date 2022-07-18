@@ -1,10 +1,9 @@
-package com.creatupage.api.security.example;
+package com.creatupage.api.example.pdf;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfiguration;
 
-@SpringBootApplication(exclude = { SecurityAutoConfiguration.class })
+@SpringBootApplication
 public class Application {
 
 	public static void main(String[] args) {
